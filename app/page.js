@@ -5,7 +5,7 @@ import Header from "./_components/Header";
 
 export default function Home() {
   return (
-    <div>
+    <div className="bg-gray-200">
       <Header/>
      <Hero/>
     </div>
