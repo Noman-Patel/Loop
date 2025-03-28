@@ -54,7 +54,7 @@ function Hero() {
       {/* Video Section */}
       <div className="mt-16 flex justify-center items-center">
         <video className="w-[90%] h-auto" controls>
-          <source src="/DEMO.mov" type="video/quicktime" />
+          <source src="/DEMO.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
       </div>
